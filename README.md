@@ -2,8 +2,6 @@
 
 # Gaurav Choudhary
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;AI+Enthusiast;Building+Intelligent+Applications)](https://git.io/typing-svg)
-
 </div>
 
 ---
