@@ -13,6 +13,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=amgauravv&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=amgauravv&icon=1&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=amgauravv&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
