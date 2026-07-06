@@ -19,10 +19,6 @@
 ## AI / Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-<p>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
